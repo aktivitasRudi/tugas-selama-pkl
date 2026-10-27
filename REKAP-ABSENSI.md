@@ -9,4 +9,4 @@ _Diperbarui otomatis: 27 Oktober 2026_
 | 1 | Contoh Siswa Satu | XI PPLG 1 | – | – | – | – | – | – | – | – | – | – | – | – | 0 | 0% |
 | 2 | Contoh Siswa Dua | XI PPLG 1 | – | – | – | – | – | – | – | – | – | – | – | – | 0 | 0% |
 
-> ⚠️ Akun berikut mengirim absensi tetapi belum terdaftar di `absensi/daftar-siswa.csv`: @syahlakeonhogyu, @uzakiah0-dot, @acyanafasya-pixel, @shashi21-cloud, @arshyaputriwindiva-dev, @mpimanda371-netizen, @safitriamalliah2-cmyk, @WD-matapi, @myudaadisaputra-gif, @putriagata301209-hash, @kaylaalizaa, @ytrafa969-lab, @Sakhi-x, @izqiauliabilqis-sys, @arkanalghifarri, @ggfargan52-max, @adamardana-hub, @wisnu-al, @askiansyahaska-droid
+> ⚠️ Akun berikut mengirim absensi tetapi belum terdaftar di `absensi/daftar-siswa.csv`: @arkanalghifarri, @syahlakeonhogyu, @uzakiah0-dot, @acyanafasya-pixel, @shashi21-cloud, @arshyaputriwindiva-dev, @mpimanda371-netizen, @safitriamalliah2-cmyk, @WD-matapi, @myudaadisaputra-gif, @putriagata301209-hash, @kaylaalizaa, @ytrafa969-lab, @Sakhi-x, @izqiauliabilqis-sys, @ggfargan52-max, @adamardana-hub, @wisnu-al, @askiansyahaska-droid
